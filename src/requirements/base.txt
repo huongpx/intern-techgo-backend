@@ -1,0 +1,4 @@
+fastapi[all]==0.89.1
+sqlalchemy==2.0.0rc3
+uvicorn[standard]
+psycopg2-binary==2.9.5
